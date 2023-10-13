@@ -1,3 +1,5 @@
+// This was written early in my college experience
+// Code organization and format was poor due to inexperience
 /******************************************************************************
 
 BattleShip
